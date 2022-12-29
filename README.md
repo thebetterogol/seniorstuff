@@ -1,3 +1,3 @@
 # seniorstuff
-Various work done by Olivia Lease throughout undergrad
-Hi all! Welcome to my (albeit chaotic) undergraduate repository. A lot of these codes are directly uploaded older homework assignments, as well group projects. If you have any questions feel free to email me at ogl2104@columbia.edu!
+Hi all! Welcome to my (albeit chaotic) undergraduate repository. A lot of these codes are directly uploaded older homework assignments and group projects so if anything looks unfinsihed or confusing, it's probably because that was all I was capable of doing at the time (so feel free to email me about them as I know a lot more now and can debug it. I currently work in systems neuroscience under PI Dr. Alex Dranovsky at the New York State Psychiatric Institute where I work in behavioral analysis utilizing python packages such as DeepLabCut, A-SOid, and B-SOid, so some of my work uses exports from those packages.
+If you have any questions feel free to email me at ogl2104@columbia.edu!
